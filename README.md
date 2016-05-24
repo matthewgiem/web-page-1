@@ -25,6 +25,7 @@ _If you run into any issues or have questions, ideas or concerns.  Contact [Matt
 
 * _Atom_
 * _Apple Computer_
+* _Techers Help_
 
 ### License
 
